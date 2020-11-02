@@ -10,8 +10,7 @@ El Bot funciona en Python3 y estan testeados en Ubuntu 20.04
  - sudo apt install -y python3-pip
 3º Instalamos los paqueteces necesarios para que funcione correctamente el script
   - pip3 install selenium==3.14.1
-  - pip3 install urllib3==1.23
- 
+  - pip3 install urllib3==1.24.2
  
  # Configuracion
  1º Abrivos el archivo "config.py" y le añadimos una url entre los parentesis.
