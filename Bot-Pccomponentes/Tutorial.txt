@@ -1,9 +1,0 @@
-----Funciones----
-1º Añadir click boton:
- - driver.find_element_by_xpath('').click()
-
-2º Tiempo de espera:
- - time.sleep()
-
-3º Rellenar Texto:
- - driver.find_element_by_xpath('').send_keys(keys[''])

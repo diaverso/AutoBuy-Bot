@@ -47,7 +47,7 @@ def order():
     server.starttls()
     server.login('correo', 'contraseña')
 
-    server.sendmail('diaversogaming@gmail.com', 'diaverso100@gmail.com', message)
+    server.sendmail('correoenvio', 'correorecepcion', message)
     server.quit()
 
 if __name__ == '__main__':
